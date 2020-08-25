@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Abort</source>
-        <translation>中断</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Error</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>All</source>
-        <translation>全选</translation>
+        <translation>全平台</translation>
     </message>
     <message>
         <source>Select TeamSpeak Client installation folder</source>
@@ -116,7 +116,7 @@ Do you want to retry as Administrator?</source>
     <message>
         <source>Failed to extract Add-On:
 %1</source>
-        <translation>无法提取附加组件：
+        <translation>无法提取附加组件: 
 %1</translation>
     </message>
 </context>
